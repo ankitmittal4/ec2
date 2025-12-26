@@ -1,1 +1,1 @@
-# ec2
+# Basic node appp for ec2 
